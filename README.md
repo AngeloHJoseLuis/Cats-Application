@@ -1,2 +1,2 @@
 ## Cats Application
-Aplicación para gatos, a modo de practicar Git y GitHub 2024
+Cat app to practice Git and GitHub 2024
