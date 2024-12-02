@@ -1,0 +1,74 @@
+* {
+    text-align: center; 
+}
+
+#titulo-app-gatos {
+    color:aqua;
+    font-size: 50px;
+    font-family: 'Ephesis', cursive;
+}
+
+h3 {
+    color: green;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+p, ul, ol {
+    color: orange;
+    font-size: 20px;
+}
+
+li {
+    color: yellow !important;
+    font-size: 15px;
+}
+
+a {
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.imagen-de-gatos {
+    width: 200px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: solid dashed dotted double;
+    border-radius: 10px;
+}
+
+.bordes-redondeados {
+    border-radius: 50%;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(0, 204, 255); 
+}
+
+.contenedor-listas {
+    background-color: silver;
+}
+
+#imagen-de-gatos {
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+}
+
+img[alt] {
+    border-radius: 50%;
+
+}
+
+[type="radio"] {
+    margin: 5px;
+}
+
+[type="checkbox"] {
+    margin: 8px;
+}
+
+a[href="https://www.freecodecamp.org/espanol/"] {
+    color: green;
+    text-decoration: none;
+    font-weight: bold;
+}
